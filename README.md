@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **WebSockets**
 
-- 🤝 I’m looking for help with **Learning industry standard practices**
+- 🤝 I’m looking for help with **Learning Developement**
 
 - 📫 How to reach me **guptashivansh374@gmail.com**
 
