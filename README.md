@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Paytm like payments-app**
-
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **WebSockets**
 
 - 🤝 I’m looking for help with **Learning industry standard practices**
 
