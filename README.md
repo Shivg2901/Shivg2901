@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Paytm like payments-app**
+- 🔭 I’m currently working on **Automation Tool**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kafka**
 
 - 📫 How to reach me **guptashivansh374@gmail.com**
 
